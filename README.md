@@ -21,3 +21,11 @@ Neste projeto, desenvolvemos uma Rede Neural Artificial capaz de prever **XPTO**
 - Scikit-learn
 - Matplotlib / Seaborn
 - Jupyter Notebook
+
+##  Estrutura do Projeto:
+─ data/ Conjunto de dados utilizado
+─ notebooks/ Análises exploratórias
+─ models/ Modelos treinados
+─ src/ Código-fonte principal
+─ requirements.txt / Dependências do projeto
+─ README.md / Documentação do projeto
